@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Antonio:wght@200;400;500;600&display=swap");
+@import "reset.css";
+@import "variable.css";
+/* Components */
+@import "components/status-bar.css";
+/* Screens */
+@import "screens/welcome-header.css";
+@import "screens/login-form.css";
+
+body {
+  font-family: "Antonio", sans-serif;
+}
