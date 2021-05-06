@@ -12,5 +12,5 @@
 }
 .welcome-header__text {
   width: 80%;
-  opacity: 0.8;
+  color: rgb(100, 100, 100);
 }

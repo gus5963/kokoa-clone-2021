@@ -1,0 +1,27 @@
+.screen-header {
+  display: flex;
+  justify-content: space-between;
+  padding: var(--horizontal-space);
+  color: #3b1e1e;
+  align-items: center;
+}
+.screen-header__title {
+  font-size: 30px;
+  font-weight: 600;
+}
+.screen-header__icon {
+  display: flex;
+}
+.screen-header__icon span {
+  margin-left: 15px;
+}
+.screen-header__comment {
+  position: relative;
+}
+.fa-plus {
+  position: absolute;
+  font-size: 10px;
+  right: -3px;
+  background-color: white;
+  border-radius: 50%;
+}

@@ -1,3 +1,5 @@
 :root {
   --skyblue: #15aabf;
+  --horizontal-space: 25px;
+  --border-bottom: 1px solid #dadada;
 }

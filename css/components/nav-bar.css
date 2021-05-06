@@ -1,0 +1,26 @@
+.nav {
+  background-color: #f9f9fa;
+  padding: 10px 45px;
+  border-top: 1px solid rgba(184, 182, 182, 0.1);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.nav__list {
+  display: flex;
+  justify-content: space-between;
+}
+.nav__link {
+  position: relative;
+  color: #3b1e1e;
+}
+.chat__notification {
+  position: absolute;
+  left: 20px;
+  bottom: 15px;
+}
+.ellipsis__notification {
+  position: absolute;
+  right: -8px;
+}
