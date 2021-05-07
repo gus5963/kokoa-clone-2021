@@ -25,3 +25,11 @@
   background-color: white;
   border-radius: 50%;
 }
+.screen-header__cog {
+  position: relative;
+}
+.cog__notification {
+  position: absolute;
+  right: -8px;
+  top: -5px;
+}
