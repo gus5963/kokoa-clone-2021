@@ -1,0 +1,16 @@
+.settings__setting {
+  padding: 25px 0px;
+  border-bottom: 1px solid rgba(180, 180, 180, 0.1);
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  color: rgba(0, 0, 0, 0.6);
+  justify-content: space-between;
+}
+.settings__setting i {
+  margin-right: 20px;
+}
+
+.settings__setting-update {
+  opacity: 0.4;
+}
